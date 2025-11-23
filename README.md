@@ -21,4 +21,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=forest-lee&show_icons=true&theme=dark&locale=en" alt="forest-lee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forest-lee&" alt="forest-lee" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forest-lee&" alt="forest-lee" /></p> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forest-lee/forest-lee/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/forest-lee/forest-lee/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/forest-lee/forest-lee/output/github-snake.svg">
+</picture>
